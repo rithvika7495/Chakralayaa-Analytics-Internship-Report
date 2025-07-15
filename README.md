@@ -5,7 +5,7 @@ This repository contains my **internship completion report** from the summer of 
 ## 📄 Report Overview
 
 * **Internship Duration:** June 2023 – August 2023
-* **Role:** Data Analytics Intern
+* **Role:** Summer Intern
 * **Organization:** Chakralayaa Analytics Pvt Ltd
 * **Project:** Supply Market Intelligence System (SMIS)
 
