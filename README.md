@@ -1,6 +1,6 @@
 # Chakralayaa Analytics Internship Report
 
-This repository contains my **internship completion report** from the summer of 2023, during which I worked as a **Data Analytics Intern** at **Chakralayaa Analytics Pvt Ltd**, a VIT-incubated startup focused on data-driven procurement solutions.
+This repository contains my **internship completion report** from the summer of 2023, during which I worked as a **Summer Intern** at **Chakralayaa Analytics Pvt Ltd**, a VIT-incubated startup focused on data-driven procurement solutions.
 
 ## 📄 Report Overview
 
